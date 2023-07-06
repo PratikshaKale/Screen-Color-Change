@@ -1,2 +1,4 @@
 # Screen-Color-Change
-On button Click it will change Screen color
+On the button Click it will change the Screen color
+
+Link - https://pratikshakale.github.io/Screen-Color-Change/
